@@ -21,7 +21,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "HinduMusicRobot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "HINDU MUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "PriyaMusic")
+ASSUSERNAME = getenv("ASSUSERNAME" , "HINDU_MUSIC_ASSIST")
 # ---------------------------------------------------------
 
 
