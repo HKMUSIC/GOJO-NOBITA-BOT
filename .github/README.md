@@ -1,9 +1,9 @@
 <h2 align="center">
-    ───「 𝐃ʀꭙ 𝐍ᴇᴛᴡᴏʀᴋ 🜲 」───
+    ───「 𝐆ᴏᴊᴏꭙ𝐍ᴏʙɪᴛᴀ 𝐍ᴇᴛᴡᴏʀᴋ 🜲 」───
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/asao71.jpg">
+  <img src="https://files.catbox.moe/v5yg3x.jpg">
 </p>
 
 <p align="center">
