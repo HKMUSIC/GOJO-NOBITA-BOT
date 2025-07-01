@@ -33,8 +33,8 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT)
         ],
         [
-            InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text=_["S_B_7"], url=config.SOURCE)
+            InlineKeyboardButton(text=_[𝗗𝗘𝗩], user_id=config.OWNER_ID),
+            InlineKeyboardButton(text=_[𝗖𝗢-𝗗𝗘𝗩], url=f"https://t.me/ll_NOBITA_DEFAULTERS_ll")
         ],
         [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
     ]
