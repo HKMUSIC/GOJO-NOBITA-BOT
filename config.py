@@ -17,9 +17,9 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","II_YOUR_GOJO_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "CaptainAmericaXVBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "HinduMusicRobot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "CAPTAIN AMERICA")
+BOT_NAME = getenv("BOT_NAME" , "HINDU MUSIC")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "PriyaMusic")
 # ---------------------------------------------------------
@@ -57,7 +57,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 SOURCE = getenv("SOURCE", "https://github.com/HKMUSIC/GOJO-NOBITA-BOT")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/shoaib910385/CloneMusic",
+    "https://github.com/HKMUSIC/GOJO-NOBITA-BOT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
