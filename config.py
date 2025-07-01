@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","HEHE_STALKER")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_YOUR_GOJO_ll")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "CaptainAmericaXVBot")
 # --------------------------------------------------------
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/DRxBots/CAPTAINAMERICA")
+SOURCE = getenv("SOURCE", "https://github.com/HKMUSIC/GOJO-NOBITA-BOT")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/shoaib910385/CloneMusic",
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/lll_DRX_NETWORK_lll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DRX_SUPPORTCHAT")
-CHAT = getenv("CHAT", "https://t.me/DRX_SUPPORTCHAT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_MUSIC_SUPPORT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOJO_NOBITA_II")
+CHAT = getenv("CHAT", "https://t.me/GOJO_NOBITA_II")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
