@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","HEHE_STALKER")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_YOUR_GOJO_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "CaptainAmericaXVBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "HinduMusicRobot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "CAPTAIN AMERICA")
+BOT_NAME = getenv("BOT_NAME" , "HINDU MUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "PriyaMusic")
+ASSUSERNAME = getenv("ASSUSERNAME" , "HINDU_MUSIC_ASSIST")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7553434931))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,10 +54,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/DRxBots/CAPTAINAMERICA")
+SOURCE = getenv("SOURCE", "https://github.com/HKMUSIC/GOJO-NOBITA-BOT")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/shoaib910385/CloneMusic",
+    "https://github.com/HKMUSIC/GOJO-NOBITA-BOT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/lll_DRX_NETWORK_lll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DRX_SUPPORTCHAT")
-CHAT = getenv("CHAT", "https://t.me/DRX_SUPPORTCHAT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_MUSIC_SUPPORT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOJO_NOBITA_II")
+CHAT = getenv("CHAT", "https://t.me/GOJO_NOBITA_II")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -143,24 +143,24 @@ confirmer = {}
 # ------------------------------------------------------------------------
 
 STREAMI_PICS = [
-"https://files.catbox.moe/m29rf2.mp4",
-"https://files.catbox.moe/2s8tyt.mp4",
+"https://files.catbox.moe/t4958d.mp4",
+"https://files.catbox.moe/ok8tat.mp4",
 
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/m29rf2.mp4"
+    "START_IMG_URL", "https://files.catbox.moe/ndz1uy.mp4"
 )
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://files.catbox.moe/2s8tyt.mp4"
+    "HELP_IMG_URL", "https://files.catbox.moe/ok8tat.mp4"
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/tjxy2c.jpg"
 )
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/p6xpll.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/v5yg3x.jpg"
 TELEGRAM_AUDIO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
 TELEGRAM_VIDEO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
 STREAM_IMG_URL = "https://i.ibb.co/0VKCS20y/stream.jpg"
