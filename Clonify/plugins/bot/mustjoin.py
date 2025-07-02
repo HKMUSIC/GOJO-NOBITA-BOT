@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "NOBITA_MUSIC_SUPPORT"
+MUST_JOIN = "GOJO_NOBITA"
 
 #--------------------------
 
