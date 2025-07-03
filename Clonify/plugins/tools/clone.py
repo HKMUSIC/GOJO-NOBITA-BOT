@@ -28,7 +28,7 @@ from config import SUPPORT_CHAT, OWNER_ID
 from datetime import datetime
 CLONES = set()
 
-C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @CaptainAmericaXVBot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @lll_DRX_NETWORK_lll\n - Sᴜᴘᴘᴏʀᴛ: @DRx_SUPPORTCHAT"
+C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @HinduMusicRobot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @NOBITA_MUSIC_SUPPORT\n - Sᴜᴘᴘᴏʀᴛ: @GOJO_NOBITA_II"
 
 C_BOT_COMMANDS = [
                 {"command": "/start", "description": "sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ"},
@@ -134,7 +134,7 @@ async def clone_txt(client, message, _):
         except BaseException as e:
             logging.exception("Error while cloning bot.")
             await mi.edit_text(
-                f"⚠️ <b>ᴇʀʀᴏʀ:</b>\n\n<code>{e}</code>\n\n**ᴋɪɴᴅʟʏ ғᴏᴡᴀʀᴅ ᴛʜɪs ᴍᴇssᴀɢᴇ ᴛᴏ @DRx_SUPPORTCHAT ᴛᴏ ɢᴇᴛ ᴀssɪsᴛᴀɴᴄᴇ**"
+                f"⚠️ <b>ᴇʀʀᴏʀ:</b>\n\n<code>{e}</code>\n\n**ᴋɪɴᴅʟʏ ғᴏᴡᴀʀᴅ ᴛʜɪs ᴍᴇssᴀɢᴇ ᴛᴏ @ll_NOBITA_DEFAULTERS_ll ᴛᴏ ɢᴇᴛ ᴀssɪsᴛᴀɴᴄᴇ**"
             )
     else:
         await message.reply_text(_["C_B_H_1"])
